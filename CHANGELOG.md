@@ -4,7 +4,8 @@
 - [#4353](https://github.com/blockscout/blockscout/pull/4353) - Added live-reload on the token holders page
 
 ### Fixes
-- [#4388](https://github.com/blockscout/blockscout/pull/4388) - Fix internal server error on contract page for insctances without sourcify envs
+- [#4388](https://github.com/blockscout/blockscout/pull/4388) - Fix internal server error on contract page for instances without sourcify envs
+- [#4360](https://github.com/blockscout/blockscout/pull/4360) - Fix false-pending transactions in reorg blocks
 
 ### Chore
 - [#4382](https://github.com/blockscout/blockscout/pull/4382) - Replace awesomplete with autocomplete.js
