@@ -1,6 +1,7 @@
 ## Current
 
 ### Features
+-[#4391](https://github.com/blockscout/blockscout/pull/4391) - Add batched transactions on the `address/{addressHash}/transactions` page
 
 ### Fixes
 
