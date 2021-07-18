@@ -3,7 +3,7 @@
 ### Features
 
 ### Fixes
-- [#4385](https://github.com/blockscout/blockscout/pull/4385) - Fix html template for transaction's input
+- [#4385](https://github.com/blockscout/blockscout/pull/4385) - Fix html template for transaction's input; Add copy text for tuples
 
 ### Chore
 - [#4382](https://github.com/blockscout/blockscout/pull/4382) - Replace awesomplete with autocomplete.js
